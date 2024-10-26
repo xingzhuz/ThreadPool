@@ -40,6 +40,10 @@ C++/
 # 编译
 make
 
+# 运行
+./bin/test_sync   # 运行同步线程池测试文件
+./bin/test_async  # 运行异步线程池测试文件
+
 # 清除所有可执行文件
 make clean
 ```
